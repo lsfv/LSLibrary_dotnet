@@ -1,0 +1,11 @@
+C:\Users\Administrator\source\repos\testwebservicesClockGogo\Library\threadutility2\other\WHC.OrderWater.Commons\obj\Debug\LibraryLS.csproj.ResolveComReference.cache
+C:\Users\Administrator\source\repos\testwebservicesClockGogo\Library\threadutility2\other\WHC.OrderWater.Commons\obj\Debug\WHC.OrderWater.Commons.CoolPrintPreviewDialog.resources
+C:\Users\Administrator\source\repos\testwebservicesClockGogo\Library\threadutility2\other\WHC.OrderWater.Commons\obj\Debug\WHC.OrderWater.Commons.PrintOptions.resources
+C:\Users\Administrator\source\repos\testwebservicesClockGogo\Library\threadutility2\other\WHC.OrderWater.Commons\obj\Debug\LibraryLS.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\testwebservicesClockGogo\Library\threadutility2\other\WHC.OrderWater.Commons\obj\Debug\LibraryLS.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\testwebservicesClockGogo\Library\threadutility2\other\WHC.OrderWater.Commons\bin\Debug\WHC.OrderWater.Commons.XML
+C:\Users\Administrator\source\repos\testwebservicesClockGogo\Library\threadutility2\other\WHC.OrderWater.Commons\bin\Debug\WHC.OrderWater.Commons.dll
+C:\Users\Administrator\source\repos\testwebservicesClockGogo\Library\threadutility2\other\WHC.OrderWater.Commons\bin\Debug\WHC.OrderWater.Commons.pdb
+C:\Users\Administrator\source\repos\testwebservicesClockGogo\Library\threadutility2\other\WHC.OrderWater.Commons\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\Administrator\source\repos\testwebservicesClockGogo\Library\threadutility2\other\WHC.OrderWater.Commons\obj\Debug\WHC.OrderWater.Commons.dll
+C:\Users\Administrator\source\repos\testwebservicesClockGogo\Library\threadutility2\other\WHC.OrderWater.Commons\obj\Debug\WHC.OrderWater.Commons.pdb
